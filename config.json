@@ -1,0 +1,21 @@
+{
+  "urls": [
+    "https://hirado.hu/elo/m1/",
+    "https://mediaklikk.hu/m2-elo/",
+    "https://m4sport.hu/elo/mtv4live/",
+    "https://mediaklikk.hu/m5-elo/",
+    "https://mediaklikk.hu/duna-elo/",
+    "https://mediaklikk.hu/duna-world-elo/"
+  ],
+  "intervalInSeconds": 86400,
+  "port": 3000,
+  "redirect": true,
+  "foundUrls": {
+    "m1": "https://c401-node62-cdn.connectmedia.hu/110301/512712ea6e57890dfe338875354f72ee/65c0001a/index.m3u8?v=5iip:194.48.250.19",
+    "m2-elo": "https://c202-node62-cdn.connectmedia.hu/110302/fb1cc26204bed0f67cc4bba541f37042/65c0002a/index.m3u8?v=5iip:194.48.250.19",
+    "mtv4live": "https://c401-node62-cdn.connectmedia.hu/110304/d6344d285d39b506baaa3a0899de96e9/65c0003b/index.m3u8?v=5iip:194.48.250.19",
+    "m5-elo": "https://c402-node61-cdn.connectmedia.hu/110305/928caaa970a5cf2855307856699b39c4/65c00049/index.m3u8?v=5iip:194.48.250.19",
+    "duna-elo": "https://c201-node61-cdn.connectmedia.hu/110303/e30e85be55ca0292110ebe5ba5af3cab/65c00057/index.m3u8?v=5iip:194.48.250.19",
+    "duna-world-elo": "https://c201-node61-cdn.connectmedia.hu/110306/b31ca1271a4cd4df106980808dea9687/65c00064/index.m3u8?v=5iip:194.48.250.19"
+  }
+}
